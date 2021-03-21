@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#!/bin/bash
-
 #SBATCH -A ecoevo283
 #SBATCH -p standard
 #SBATCH --cpus-per-task=1

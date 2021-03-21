@@ -10,7 +10,7 @@ The results, in the form of a directory tree are [here](https://github.com/Tatya
 
 ## bash way
 
-The commented out section of the [batch submission script](https://github.com/TatyanaLev/EE283HW6/blob/main/sbatch.sh) are the commented out ways to make symlinks in bash. This way they are not renamed -- only linked while retaining the original name.
+The commented out section of the [batch submission script](https://github.com/TatyanaLev/EE283HW6/blob/main/sbatch.sh) are the ways to make symlinks in bash. This way they are not renamed -- only linked while retaining the original name.
 
 # FASTQC
 
